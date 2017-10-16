@@ -2,6 +2,4 @@ finders:
   - influxgraph.InfluxDBFinder
 influxdb:
   host: influxdb
-  memcache:
-    host: memcached
   log_level: info
